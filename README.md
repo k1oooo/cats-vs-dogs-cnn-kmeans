@@ -93,7 +93,7 @@ Both clusters contain a mix of cats and dogs, and the PCA projection shows heavy
 ```
 .
 ├── supervised_learning.ipynb              # Parts 1-2: CNN from scratch + MobileNetV2
-├── unsupervised_learning.ipynb         # Parts 3-4: K-Means clustering + reflection
+├── SAIA2113_Part3_Part4__1_.ipynb         # Parts 3-4: K-Means clustering + reflection
 ├── train.csv                              # Training image paths and labels
 ├── val.csv                                # Validation image paths and labels
 ├── train/ and val/                        # Image folders (cat/ and dog/ subfolders)
@@ -105,6 +105,8 @@ Both clusters contain a mix of cats and dogs, and the PCA projection shows heavy
 The notebooks were written and run on **Google Colab**, so paths point to `/content/`.
 
 ```bash
+git clone https://github.com/k1oooo/cats-vs-dogs-cnn-kmeans.git
+cd cats-vs-dogs-cnn-kmeans
 pip install tensorflow numpy scikit-learn matplotlib seaborn pillow
 ```
 
