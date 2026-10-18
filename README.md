@@ -93,7 +93,7 @@ Both clusters contain a mix of cats and dogs, and the PCA projection shows heavy
 ```
 .
 ├── supervised_learning.ipynb              # Parts 1-2: CNN from scratch + MobileNetV2
-├── SAIA2113_Part3_Part4__1_.ipynb         # Parts 3-4: K-Means clustering + reflection
+├── unsupervised_learning.ipynb         # Parts 3-4: K-Means clustering + reflection
 ├── train.csv                              # Training image paths and labels
 ├── val.csv                                # Validation image paths and labels
 ├── train/ and val/                        # Image folders (cat/ and dog/ subfolders)
